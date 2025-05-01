@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "A Mother's Unwavering Love: Sarah's Story",
+      "excerpt": "How one mother's dedication changed the lives of her three children while pursuing her own dreams.",
+      "content": "In the heart of a bustling city, Sarah Johnson juggled her roles as a single mother of three and an aspiring entrepreneur. Her days began before sunrise, preparing breakfast and lunch boxes while reviewing business proposals. Her children watched in awe as she transformed their small apartment into a thriving home-based bakery...",
+      "author": "Dolly Singh",
+      "category": "Stories",
+      "date": "2024-05-01",
+      "imageUrl": "/download.jpeg",
+      "readingTime": "5 min"
+    },
+    {
+      "id": "2",
+      "title": "The Healing Touch: A Tribute to Nurse Moms",
+      "excerpt": "Celebrating mothers who balance their nurturing nature at home and in healthcare.",
+      "content": "Maria Rodriguez has spent twenty years as a pediatric nurse, but her most challenging and rewarding nursing duties happen at home. As a mother of two children with special needs, she brings her professional expertise and maternal instincts together in a beautiful symphony of care...",
+      "author": "Payal Jain",
+      "category": "Health",
+      "date": "2024-05-03",
+      "imageUrl": "/istockphoto-1419092701-612x612.jpg",
+      "readingTime": "4 min"
+    },
+    {
+      "id": "3",
+      "title": "Generations of Wisdom: Grandmother's Legacy",
+      "excerpt": "A heartwarming story of how three generations of mothers shaped a family's values.",
+      "content": "In our family, wisdom flows like a river through generations. My grandmother's kitchen was more than a place for cooking; it was a classroom where life lessons were served alongside homemade bread. Her stories, passed down from her mother, and now shared with my own children, weave a tapestry of love, resilience, and tradition...",
+      "author": "Lisa Shah",
+      "category": "Inspiration",
+      "date": "2024-05-05",
+      "imageUrl": "/download%20(1).jpeg",
+      "readingTime": "6 min"
+    }
+  ]
+} 
